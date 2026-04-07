@@ -8,7 +8,7 @@ Sales performance analysis for e-commerce data: revenue trends, top products, an
 <img width="1228" height="522" alt="chart png" src="https://github.com/user-attachments/assets/a66e01a1-cafd-4e77-a6b2-196b2d656b99" />
 
 ## 🛠️ Tools Used
-- Python (Pandas, Matplotlib)
+- Python (Pandas)
 - Excel
 
 ## 📊 Analysis Includes
@@ -18,7 +18,7 @@ Sales performance analysis for e-commerce data: revenue trends, top products, an
 - Data cleaning & preparation
 
 ## 📁 Project Structure
-- [E-commerce Sales Analysis-1.py](https://github.com/user-attachments/files/26541759/E-commerce.Sales.Analysis-1.py) — Main Python notebook
+- [E-commerce Sales Analysis-1.py](https://github.com/user-attachments/files/26541759/E-commerce.Sales.Analysis-1.py) — Main Python Code
 - [ecommerce-sales-analysis-1.xlsx](https://github.com/user-attachments/files/26541774/ecommerce-sales-analysis-1.xlsx) — Dataset files
 
 ## 🚀 How to Run
